@@ -52,10 +52,10 @@ int main()
 		{
 			clicking = !clicking;
 			if (clicking)
-				std::cout << "Clicking: on\n";
+				cout << "Clicking: on\n";
 			else
 			{
-				std::cout << "Clicking: off\n";
+				cout << "Clicking: off\n";
 			}
 		}
 	}
